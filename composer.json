@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/perfect-scrollbar",
+    "description": "jQuery scrollbar plugin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jun Noraesae",
+            "email": "me@noraesae.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
